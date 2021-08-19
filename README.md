@@ -5,10 +5,7 @@ https://cdn.jsdelivr.net/gh/jiyiv5/xhm_sy/repository.json
 https://cdn.jsdelivr.net/gh/nakovo/okay@main/repository.json  
 https://cdn.jsdelivr.net/gh/fangyk-rel/bookSource/link.json
 
-
-
-https://cdn.jsdelivr.net/gh/chuner821/deepink/repository.json  
-https://cdn.jsdelivr.net/gh/chimisgo/BookSourceRepository/repository.json  
+  
 https://cdn.jsdelivr.net/gh/Wenmoux/sources/Wen.json  
 https://gitee.com/jiyiv5/xhm_sy/raw/master/repository.json  
 
